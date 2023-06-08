@@ -60,11 +60,11 @@ Statistics of our dataset grouped by task:
 
 ## Model Evaluation
 
-GPT-4 evalaution on $300$ instances from OK-VQA, A-OKVQA and ViQuAE.
+GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on $300$ instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
 
 ![GPT-4 Evaluation](/imgs/gpt4_eval.png)
 
-Our model outperforms MiniGPT4 and InstructBLIP in most cases!
+Case study shows VLM trained our models provide accurate answers for challenging questions, and respond correctly to Chinese instructions!
 
 ![Case Study](/imgs/case_study.png)
 
