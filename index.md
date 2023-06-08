@@ -1,4 +1,4 @@
-# M$^3$IT: Multi-Modal Multilingual Instruction Tuning Dataset
+# M$$^3$$IT: Multi-Modal Multilingual Instruction Tuning Dataset
 
 📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset]](https://huggingface.co/datasets/MMInstruction/M3IT) 🎇[[Demo(Coming Soon)]]()
 
@@ -60,7 +60,7 @@ Statistics of our dataset grouped by task:
 
 ## Model Evaluation
 
-GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on $300$ instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
+GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on $$300$$ instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
 
 ![GPT-4 Evaluation](/imgs/gpt4_eval.png)
 
