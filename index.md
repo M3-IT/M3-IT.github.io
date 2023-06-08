@@ -12,7 +12,7 @@ Instruction tuning has significantly advanced large language models (LLMs) such 
 
 Our dataset covers 40 diverse Vision-to-Text Task, featuring Chinese and Video tasks as well:
 
-![Task Converage](./imgs/task_cover.png)
+![Task Converage](./imgs/task_coverage.png)
 
 
 
