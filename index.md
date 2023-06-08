@@ -1,4 +1,4 @@
-# M$^3$IT: Multi-Modal Multilingual Instruction Tuning Dataset
+# M$$^3$$IT: Multi-Modal Multilingual Instruction Tuning Dataset
 
 📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset]](https://huggingface.co/datasets/MMInstruction/M3IT) 🎇[[Demo(Coming Soon)]]()
 
@@ -60,7 +60,7 @@ Statistics of our dataset grouped by task:
 
 ## Model Evaluation
 
-GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on $300$ instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
+GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on 300 instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
 
 ![GPT-4 Evaluation](/imgs/gpt4_eval.png)
 
@@ -69,6 +69,17 @@ Case study shows VLM trained our models provide accurate answers for challenging
 ![Case Study](/imgs/case_study.png)
 
 
+
+## BibTex
+
+```bib
+@article{li2023m3it,
+  title={M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning},
+  author={Lei Li and Yuwei Yin and Shicheng Li and Liang Chen and Peiyi Wang and Shuhuai Ren and Mukai Li and Yazheng Yang and Jingjing Xu and Xu Sun and Lingpeng Kong and Qi Liu},
+  journal={arXiv preprint arXiv:2306.04387},
+  year={2023}
+}
+```
 
 
 
