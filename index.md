@@ -1,4 +1,4 @@
-# M$$^3$$IT: Multi-Modal Multilingual Instruction Tuning Dataset
+# M&sup3;IT: Multi-Modal Multilingual Instruction Tuning Dataset
 
 📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset]](https://huggingface.co/datasets/MMInstruction/M3IT) 🎇[[Demo(Coming Soon)]]()
 
@@ -8,7 +8,7 @@ We introduce the Multi-Modal, Multilingual Instruction Tuning (M3IT) dataset,  c
 
 Key tasks are translated into **80** languages with an advanced translation system
 
-We train a VLM model on our M3IT dataset, showcasing its potential to answer complex questions, generalize to unseen video tasks, and comprehend unseen instructions in Chinese. 
+We train a VLM model on our M&sup3;IT dataset, showcasing its potential to answer complex questions, generalize to unseen video tasks, and comprehend unseen instructions in Chinese. 
 
 ## Task Coverage
 
