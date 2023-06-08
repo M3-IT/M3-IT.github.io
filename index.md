@@ -44,8 +44,6 @@ for train_instance in dataset['train']:
     image_0 = Image.open(BytesIO(b64decode(image_base64_str_list[0])))
 ```
 
-
-
 ## Statistics
 
 Statistics of our instructions:
@@ -71,6 +69,18 @@ Case study shows VLM trained our models provide accurate answers for challenging
 
 
 
+
+## BibTex
+
+```bib
+
+@article{li2023m3it,
+  title={M$^3$IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning},
+  author={Lei Li and Yuwei Yin and Shicheng Li and Liang Chen and Peiyi Wang and Shuhuai Ren and Mukai Li and Yazheng Yang and Jingjing Xu and Xu Sun and Lingpeng Kong and Qi Liu},
+  journal={arXiv preprint arXiv:2306.04387},
+  year={2023}
+}
+```
 
 
 
