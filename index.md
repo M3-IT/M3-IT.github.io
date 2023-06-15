@@ -1,4 +1,4 @@
-# M$$^3$$IT: Multi-Modal Multilingual Instruction Tuning Dataset
+# M&sup3;IT: Multi-Modal Multilingual Instruction Tuning Dataset
 
 📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset (En, Zh)]](https://huggingface.co/datasets/MMInstruction/M3IT) [[80 Languages]](https://huggingface.co/datasets/MMInstruction/M3IT-80) 🎇[[Demo(Coming Soon)]]()
 
@@ -8,7 +8,7 @@ We introduce the Multi-Modal, Multilingual Instruction Tuning (M3IT) dataset,  c
 
 Key tasks are translated into **80** languages with an advanced translation system.
 
-We train a VLM model on our M3IT dataset, showcasing its potential to answer complex questions, generalize to unseen video tasks, and comprehend unseen instructions in Chinese. 
+We train a VLM model on our M&sup3;IT dataset, showcasing its potential to answer complex questions, generalize to unseen video tasks, and comprehend unseen instructions in Chinese. 
 
 ## Task Coverage
 
@@ -58,7 +58,7 @@ Statistics of our dataset grouped by task:
 
 ## Model Evaluation
 
-GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on $$300$$ instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
+GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on 300 instances from OK-VQA, A-OKVQA and ViQuAE, where our model outperforms MiniGPT4 and InstructBLIP in most cases.
 
 ![GPT-4 Evaluation](/imgs/gpt4_eval.png)
 
