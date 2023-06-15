@@ -1,12 +1,12 @@
 # M$$^3$$IT: Multi-Modal Multilingual Instruction Tuning Dataset
 
-📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset]](https://huggingface.co/datasets/MMInstruction/M3IT) 🎇[[Demo(Coming Soon)]]()
+📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset (En, Zh)]](https://huggingface.co/datasets/MMInstruction/M3IT) [[80 Languages]](https://huggingface.co/datasets/MMInstruction/M3IT-80) 🎇[[Demo(Coming Soon)]]()
 
 ## TL;DR
 
 We introduce the Multi-Modal, Multilingual Instruction Tuning (M3IT) dataset,  comprises **40** carefully curated datasets, including **2.4 million** instances and **400** manually written task instructions, reformatted into a vision-to-text structure. 
 
-Key tasks are translated into **80** languages with an advanced translation system
+Key tasks are translated into **80** languages with an advanced translation system.
 
 We train a VLM model on our M3IT dataset, showcasing its potential to answer complex questions, generalize to unseen video tasks, and comprehend unseen instructions in Chinese. 
 
@@ -65,8 +65,6 @@ GPT-4 evalaution using [FairEval](https://github.com/i-Eval/FairEval) on $$300$$
 Case study shows VLM trained our models provide accurate answers for challenging questions, and respond correctly to Chinese instructions!
 
 ![Case Study](/imgs/case_study.png)
-
-
 
 
 
