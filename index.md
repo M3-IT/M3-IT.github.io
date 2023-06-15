@@ -1,6 +1,6 @@
 # M&sup3;IT: Multi-Modal Multilingual Instruction Tuning Dataset
 
-📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset (En, Zh)]](https://huggingface.co/datasets/MMInstruction/M3IT) [[80 Languages]](https://huggingface.co/datasets/MMInstruction/M3IT-80) 🎇[[Demo(Coming Soon)]]()
+📃[[Paper]](https://arxiv.org/abs/2306.04387)  💾[[Dataset (En, Zh)]](https://huggingface.co/datasets/MMInstruction/M3IT) [[Dataset (80 Languages Evaluation Set)]](https://huggingface.co/datasets/MMInstruction/M3IT-80) 🎇[[Demo(Coming Soon)]]()
 
 ## TL;DR
 
